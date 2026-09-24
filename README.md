@@ -22,6 +22,7 @@ Live: **https://daemeous.github.io/east-grinstead-uckfield/**
 | Shipley + Keighley and Ilkley | https://daemeous.github.io/shipley/ |
 | Bassetlaw | https://daemeous.github.io/bassetlaw/ |
 | Dunstable and Leighton Buzzard | https://daemeous.github.io/dunstable-leighton-buzzard/ |
+| Stockton North & West | https://daemeous.github.io/stockton-north-west/ |
 
 Related project — **[Pothole Watch](https://github.com/Daemeous/stafford-potholes)**, same visual style, separate Sheet/Apps Script backend.
 
